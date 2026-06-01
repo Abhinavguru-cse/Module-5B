@@ -35,7 +35,8 @@ print(mer)
 ~~~
 
 ## Output
-![Uploading image.png…]()
+<img width="1149" height="746" alt="image" src="https://github.com/user-attachments/assets/3cfa5e4e-34df-42ef-b283-9f049ee01fe4" />
+
 
 ## Result
 Thus,the program has been executed successfully.
